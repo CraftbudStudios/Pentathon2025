@@ -4,10 +4,12 @@ TLDR
 
 **Flag locations**: [opcua nodes](https://github.com/CraftbudStudios/Pentathon2025/blob/main/OT-Hardware.md#opcua-nodes), [fuxa in challenge.py file](https://github.com/CraftbudStudios/Pentathon2025/blob/main/OT-Hardware.md#fuxa-cve), [modbus server behind port 6060 running proxy](https://github.com/CraftbudStudios/Pentathon2025/blob/main/OT-Hardware.md#modbus-behind-port-6060)
 
-**Flags I almost figured out**: /key endpoint on port 5000 bypassable by SSRF, time ran out.
-JWT jku injection on port 5000 logging in as admin, with DNS rebinding but time ran out as well.
- 
+**Flags I almost figured out**: <br>
+            /key endpoint on port 5000 bypassable by SSRF, time ran out.<br>
+            JWT jku injection on port 5000 logging in as admin, with DNS rebinding but time ran out as well.
 
+
+## Initial Recon
 Nmap Scan was performed carefully so as to not disturb any OT hardware -
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd4BVxAKJgpKIjbhTQQ_cDX9L4s8umtwO1tZO_PgfHdm9-9lrhD3OQGs2CTNKI-6hb4F9WmLRgQYg7NKIE5g5FxBzKVlmRKdW9clniduKOAeiRTaNGqBlF4noATPiuFVA4p3WEj?key=d0Wt3_u_2eD-zkNSivan0Q)
