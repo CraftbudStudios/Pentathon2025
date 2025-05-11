@@ -138,7 +138,7 @@ Logging in, we see -
  
 
  
-
+## Fuxa CVE
 We also notice that the server on port 1881 is running on fuxa-
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYYHOs1yrHyrMLmfhOSa0RPKRYAv0RzZ_3WOFP6-wHCIPuUDwEIiAWdqehcRZhOVn2KVSo7XGppSoINHkNFN_u5gG0Zpqpvos45hAiaLqkU1qEaOllbSX8fTNBGasCKF3PubqoqQ?key=d0Wt3_u_2eD-zkNSivan0Q)
@@ -224,7 +224,7 @@ The flag would have also been revealed as a security token if activate\_emergenc
  
 
  
-
+## OPCUA Nodes
 We had also seen opcua running on port 4840 in our nmap scan-
 
  
@@ -276,7 +276,7 @@ Stating this since the locked hint suggested that we had to get admin access for
  
 
  
-
+## Modbus behind port 6060
 We see that anonymous ftp login is allowed and some files and directories are accessible-
 
  
