@@ -48,19 +48,6 @@ At port 1881 we see -
 
  
 
-From <<http://192.168.230.43:1881/api/settings>>
-
- 
-
- 
-
-Administrator password exposed in responses from server -
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbNJYwfrxhvW6PcJg7ObVe93xpLXt_lK3qflUZfSiyF3VKvnpKFfv9uTtxr6oExfOvf1G4Sum-oxu64w7RV8zr3fbLFZMoYVYuttDx5AhApzbx3hugVCinU7Gey3lvWOQ6awyYVg?key=d0Wt3_u_2eD-zkNSivan0Q)
-
- 
-
- 
 
 Normal users can control everything on the site -
 
